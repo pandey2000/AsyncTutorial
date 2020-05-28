@@ -1,0 +1,7 @@
+C:\Users\t-ampand\source\repos\testingAsyncProg\testingAsyncProg\bin\Debug\testingAsyncProg.exe.config
+C:\Users\t-ampand\source\repos\testingAsyncProg\testingAsyncProg\bin\Debug\testingAsyncProg.exe
+C:\Users\t-ampand\source\repos\testingAsyncProg\testingAsyncProg\bin\Debug\testingAsyncProg.pdb
+C:\Users\t-ampand\source\repos\testingAsyncProg\testingAsyncProg\obj\Debug\testingAsyncProg.csprojAssemblyReference.cache
+C:\Users\t-ampand\source\repos\testingAsyncProg\testingAsyncProg\obj\Debug\testingAsyncProg.csproj.CoreCompileInputs.cache
+C:\Users\t-ampand\source\repos\testingAsyncProg\testingAsyncProg\obj\Debug\testingAsyncProg.exe
+C:\Users\t-ampand\source\repos\testingAsyncProg\testingAsyncProg\obj\Debug\testingAsyncProg.pdb
